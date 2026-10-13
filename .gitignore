@@ -1,0 +1,5 @@
+# notebook 运行产物, 可由 notebook 重新生成
+exp01_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
