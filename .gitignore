@@ -1,5 +1,7 @@
-# notebook 运行产物, 可由 notebook 重新生成
+# 提交要求: 仅提交两个 notebook, 其余文件不上传
+*.pdf
 exp01_data/
+student_utils.py
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
